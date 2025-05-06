@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Bluetooth Headphones",
+      "price": 59.99,
+      "description": "High-fidelity over-ear headphones with noise cancellation and 20h battery life.",
+      "category": "electronics",
+      "image": "/images/p4.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Running Shoes",
+      "price": 89.95,
+      "description": "Lightweight and breathable running shoes designed for comfort and durability.",
+      "category": "sportswear",
+      "image": "/images/p5.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Coffee Maker",
+      "price": 39.5,
+      "description": "12-cup programmable drip coffee maker with auto-shutoff and reusable filter.",
+      "category": "kitchen",
+      "image": "/images/p1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Classic Leather Wallet",
+      "price": 24.99,
+      "description": "Genuine leather bi-fold wallet with multiple card slots and ID window.",
+      "category": "accessories",
+      "image": "/images/p2.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Yoga Mat",
+      "price": 29,
+      "description": "Eco-friendly, non-slip yoga mat with carrying strap, 6 mm thickness.",
+      "category": "fitness",
+      "image": "/images/p3.jpg"
+    }
+  ]
+}

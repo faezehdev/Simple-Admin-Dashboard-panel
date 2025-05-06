@@ -1,0 +1,96 @@
+{
+    "register":{
+        "registerBtn":"ثبت نام",
+        "username":"نام کاربری",
+        "password":"رمز عبور",
+        "RePassword":"تکرار رمز عبور",
+        "alreadyRegistered":"درحال حاضر ثبت نام کردید ?",
+        "signup":"ثبت نام",
+        "login":"ورود ",
+        "saving":"درحال دخیره...",
+        "successOperation":"تغییرات شما با موفقیت دخیره شد !",
+        "notRegister":"هنوز ثبت نام نکردید !",
+        "validdation":{
+            "usernameRequired":"نام کاربری الزامی",
+            "passwordRequired":"رمز عبور الزامی",
+            "RepeatpasswordRequired":"تکرار رمز عبور الزامی",
+            "notMatching":"رمز عبور با تکرار آن مطابقت ندارد",
+            "passwordTooShort":"رمز عبور باید حداقل 6 کاراکتر باشد",
+            "usernameTooShort":"نام کاربری باید حداقل 3 کاراکتر باشد",
+                "RegisterSuccess":"ثبت نام با موفقیت انجام شد",
+            "RegisterFaild":" در فرایند ثبت نام مشکلی پیش آمد"
+        }
+    },
+    "loginP":{
+        "loginBtn":"ورود ",
+        "username":"نام کاربری",
+        "password":"رمز عبور",
+        "RePassword":"تکرار رمز عبور",
+        "alreadyRegistered":"درحال حاضر ثبت نام کردید ?",
+        "signup":"ثبت نام",
+        "login":"ورود ",
+        "saving":"درحال دخیره...",
+        "successOperation":"تغییرات شما با موفقیت دخیره شد !",
+        "notRegister":"هنوز ثبت نام نکردید !",
+        "validdation":{
+            "usernameRequired":"نام کاربری الزامی",
+            "passwordRequired":"رمز عبور الزامی",
+            "RepeatpasswordRequired":"تکرار رمز عبور الزامی",
+            "notMatching":"رمز عبور با تکرار آن مطابقت ندارد",
+            "passwordTooShort":"رمز عبور باید حداقل 6 کاراکتر باشد",
+            "usernameTooShort":"نام کاربری باید حداقل 3 کاراکتر باشد",
+            "RegisterSuccess":" ورود با موفقیت انجام شد",
+            "RegisterFaild":" در فرایند ورود مشکلی پیش آمد"
+        }
+    },
+    "button":{
+        "buttonName":"خارج شوید"
+    },
+    "menu": {
+        "productManagement": "مدیریت محصولات",
+        "allProducts": "همه محصولات",
+        "categories": "دسته بندی محصولات",
+        "orders": "سفارشات",
+        "orderList": "لیست سفارشات",
+        "newOrders": "سفارشات جدید"
+    },
+    "products":{
+        "proTitleMain":"محصولات",
+       "addNewPro":"افزودن محصول جدید",
+       "deleteProduct":" حذف محصول",
+       "proName":"نام",
+         "price":"قیمت",
+         "category":"دسته بندی",
+         "description":"توضیحات",
+         "image":"اسم عکس مثل:p.jpg",
+         "validation":{
+            "proNameRequired":"لطفا اسم محصول را وارد نمایید",
+             "close":"بستن",
+            "saveChanges":" ثبت تغییرات",
+            "priceRequired":"لطفا قیمت را وارد نمایید",
+            "justNumber":"فقط عدد وارد کنید",
+            "categoryRequired":"لطفا دسته بندی را وارد نمایید ",
+            "descriptionRequired":"توضیحات محصول الزامیه ",
+            "imageRequired":"عکس محصول الزامیه "
+         }
+    },
+
+  "modal":{
+   "yes":"بله",
+   "no":"خیر",
+   "deleteProductTitle":"حذف محصول ",
+   "deleteProductBody":"برای حذف محصول اطمینان دارید؟"
+
+  },
+  "fetchData":{
+    "load":"درحال دریافت اطلاعات",
+    "loadP":"درحال انجام... ",
+    "deleteProductY":"حذف با موفقیت انجام شد",
+    "deleteProductN":" حذف این محصول امکان پذیر نیست!",
+        "addNewPro":"محصول با موفقیت اضافه شد  ",
+    "addNewProfailed":"  متاسفانه محصول اضافه نشد! "
+},
+"error":{
+    "404":"بازگشت به صفحه اصلی "
+}
+}

@@ -1,0 +1,97 @@
+{
+    "register":{
+        "registerBtn":"register",
+        "username":"username",
+        "password":"password",
+        "RePassword":"Repeat Password",
+        "alreadyRegistered":"already Registered!",
+        "signup":"Sign up",
+        "login":" login",
+        "saving":"saving ...",
+        "successOperation":"your changes have been successfully saved !",
+        "notRegister":"Not register yet !",
+        "validdation":{
+            "usernameRequired":"UserName is required",
+            "passwordRequired":"Password is required",
+            "RepeatpasswordRequired":"Repeat password is required",
+            "notMatching":"Password do not match",
+            "passwordTooShort":"Password must be at least 6 character",
+            "usernameTooShort":"Username must be at least 3 character",
+               "RegisterSuccess":"Registration successfull",
+            "RegisterFaild":"Registration failed"
+        }
+    },
+    "loginP":{
+        "loginBtn":"login",
+        "username":"username",
+        "password":"password",
+        "RePassword":"Repeat Password",
+        "alreadyRegistered":"already Registered!",
+        "signup":"Sign up",
+        "login":" login",
+        "saving":"saving ...",
+        "successOperation":"your changes have been successfully saved !",
+        "notRegister":"Not register yet !",
+        "validdation":{
+            "usernameRequired":"UserName is required",
+            "passwordRequired":"Password is required",
+            "RepeatpasswordRequired":"Repeat password is required",
+            "notMatching":"Password do not match",
+            "passwordTooShort":"Password must be at least 6 character",
+            "usernameTooShort":"Username must be at least 3 character",
+            "RegisterSuccess":"Login successfull",
+            "RegisterFaild":"Login failed"
+        }
+  
+    },
+    "button":{
+        "buttonName":"logOut"
+    },
+    "menu": {
+        "productManagement": "product Management",
+        "allProducts": "all Products",
+        "categories": "categories",
+        "orders": "orders",
+        "orderList":"order List",
+        "newOrders":"new Orders"
+    }
+    ,
+    "products":{
+        "proTitleMain":"Products",
+         "addNewPro":"Add New Product  ",
+         "deleteProduct":"remove product",
+         "proName":"name",
+         "price":"price",
+         "category":"category",
+         "description":"description",
+         "image":"image name ex:p.jpg",
+         "validation":{
+            "proNameRequired":"please enter product name",
+            "close":"close",
+            "saveChanges":"save Changes",
+            "priceRequired":"price is required",
+            "justNumber":"just number",
+            "categoryRequired":"category is required ",
+            "descriptionRequired":"description is required ",
+            "imageRequired":"image name is required "
+         }
+    },
+    "modal":{
+        "yes":"Yes",
+        "no":"No",
+        "deleteProductTitle":"Delete Product  ",
+        "deleteProductBody":"Are you sure to delete this product? "
+ 
+       },
+    "fetchData":{
+        "load":"loading data ...",
+        "loadP":"in progress ... ",
+        "deleteProductY":"deleted successfully!",
+       "deleteProductN":"deleted is not possivle!",
+              "addNewPro":"Added Product successfully! ",
+        "addNewProfailed":"Product not added "
+    },
+    "error":{
+        "404":"go homepage"
+    }
+}
